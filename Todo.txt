@@ -1,0 +1,4 @@
+Pay Bills,high
+Do homework,high
+Clean house,low
+Wash windows,low
